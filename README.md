@@ -135,4 +135,4 @@ java -ea -cp bin PruebasCmms
 
 ## Autor
 
-**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech)
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](https://www.linkedin.com/in/vendittiangel/)
