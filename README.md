@@ -4,7 +4,7 @@ Aplicación de consola en **Java 17+** que implementa un **sistema de gestión d
 
 Aplica reglas que se viven en una planta: no se le asigna una orden mecánica a un electricista, un tanque de aire no se descuenta si la orden no está en ejecución, una falla en un equipo crítico es emergencia y un preventivo nunca lo es.
 
-> ⚠️ Proyecto educativo / de portfolio. Los datos de ejemplo son inventados y las reglas (intervalos, prioridades) son configurables según el procedimiento de cada planta.
+> ⚠️ Proyecto educativo. Los datos de ejemplo son inventados y las reglas (intervalos, prioridades) son configurables según el procedimiento de cada planta.
 
 ## Qué resuelve
 
